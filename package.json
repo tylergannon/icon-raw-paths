@@ -4,6 +4,7 @@
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest",
+    "node-html-parser": "^6.1.12",
     "tsup": "^8.0.2"
   },
   "peerDependencies": {
