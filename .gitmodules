@@ -1,3 +1,6 @@
 [submodule "set-ui"]
 	path = set-ui
 	url = https://github.com/jesseweed/seti-ui.git
+[submodule "starlight"]
+	path = starlight
+	url = https://github.com/withastro/starlight.git
